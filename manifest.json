@@ -1,7 +1,7 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://dev.localhost/",
+  "start_url": "https://shimijoseph10.github.io/shareapi.io/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
